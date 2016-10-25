@@ -1,0 +1,38 @@
+ls prog1_scripts/
+prog1_1.sh prog1_2.sh prog1_3.sh prog1_4.sh prog1_5.sh
+----
+Grading cs320assignment1 for abdiqani ainab, ainab4072
+
+#############################################################
+Cloning repository
+
+#############################################################
+Looking for files
+[ Pass ] Looking for file prog1_1.c...
+[ Pass ] Looking for file prog1_2.c...
+[ Pass ] Looking for file prog1_3.c...
+[ Pass ] Looking for file prog1_4.c...
+
+#############################################################
+Executing Tests
+[ Pass ] Grading prog1_1.sh
+[ Pass ] Grading prog1_2.sh
+[ Fail ] Grading prog1_3.sh
+[ Pass ] Grading prog1_4.sh
+[ Fail ] Grading prog1_5.sh
+-------------------------
+Correct 3/4
+
+#############################################################
+Extra Credit
+Found 4/4
+[ Fail ] Looking for extra credit prog1_5.c...
+[ Fail ] Testing Extra Credit prog1_5.sh
+Program Correctness: 45.0
+Documentation: 20
+README.md: 10
+Submission: 10
+------------------
+Total: 85.0
+
+Submitting Grade
